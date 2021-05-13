@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "discord.largeImage": "Editing a {lang} file",
+    "git.ignoreLimitWarning": true
+}

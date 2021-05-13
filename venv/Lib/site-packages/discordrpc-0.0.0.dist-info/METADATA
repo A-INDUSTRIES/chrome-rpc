@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: discordrpc
+Version: 0.0.0
+Summary: Python library for applications connecting to Discord's local RPC server
+Home-page: https://github.com/ymber/pylibDiscordRPC
+Author: Matthew Taylor
+Author-email: mtaylor1252dev@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.6
+
+# Python DIscord RPC library
+
+This library implements a class to connect to a local Discord RPC server and send rich presence data.
+
